@@ -1,5 +1,5 @@
 #### Hi there 👋, my name is Akash Singh
-###  I am Software Developer At Yamnaya Logistics LLP
+###  I am Software Developer & Data Scientist at Yamnaya Logistics LLP
 Data Scientist having a good command on Python,Machine learning, Deep Learning, Data Science, Computer Vision, MySql & Artificial intelligence.
 
 Skills: Data Science/ Machine Learning/ NLP /Computer Vision/ Deep Learning  / MySql/ MongoDB/AmazoneAWS/ HTML / CSS / Java Script/ Azure/ AWS
