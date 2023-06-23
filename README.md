@@ -1,12 +1,12 @@
 #### Hi there 👋, my name is Akash Singh
-###  I am Software Developer & Data Scientist at Yamnaya Logistics LLP
-Data Scientist having a good command on Python,Machine learning, Deep Learning, Data Science, Computer Vision, MySql & Artificial intelligence.
+###  I am Software Developer at DELHIVERY PVT. LTD.
+Software Developer having a good command on Python,Machine learning, Deep Learning, Data Science, Computer Vision, MySql & Artificial intelligence.
 
-Skills: Data Science/ Machine Learning/ NLP /Computer Vision/ Deep Learning  / MySql/ MongoDB/AmazoneAWS/ HTML / CSS / Java Script/ Azure/ AWS
+Skills: Data Science/ Machine Learning/ NLP /Computer Vision/ Deep Learning  / MySql/ MongoDB/AmazoneAWS/ Azure/ AWS
 
 - 🔭 I’m currently working on Advance Machine Learning Projects 
-- 🌱 I’m currently learning Artificial intelligence 
-- 👯 I’m looking to collaborate on Machine Learning Projects 
+- 🌱 I’m currently learning Artificial intelligence
+- 👯 I’m looking to collaborate on Logistics Projects 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AkashSahlot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akash-singh965042/)
