@@ -1,5 +1,5 @@
 #### Hi there 👋, my name is Akash Singh
-###  I am Support Engineer at DELHIVERY PVT. LTD.
+###  I am Software Developer at DELHIVERY PVT. LTD.
 Software Developer having a good command on Python,Machine learning, Deep Learning, Data Science, Computer Vision, MySql & Artificial intelligence.
 
 Skills: Data Science/ Machine Learning/ NLP /Computer Vision/ Deep Learning  / MySql/ MongoDB/AmazoneAWS/ Azure/ AWS
