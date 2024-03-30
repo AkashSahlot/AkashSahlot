@@ -1,6 +1,6 @@
 #### Hi there 👋, my name is Akash Singh
 ###  I am a Python Developer at DELHIVERY PVT. LTD.
-Software Developer having a good command of Python, Deep Learning, MySql, NoSql, and Django.
+Python Developer having a good command of Python, Deep Learning, MySql, NoSql, and Django.
 
 Skills: Python / SQL / Deep Learning  / MySql/ MongoDB / AmazoneAWS / Azure/ AWS
 
