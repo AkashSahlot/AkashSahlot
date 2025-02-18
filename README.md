@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hello guys 👋, I'm Akash</h1>
 <h3 align="center">Python Developer | Software Engineer
 
-  A passionate Python developer focused on extracting valuable insights from complex data through advanced analytical functions and efficient data retrieval methods. Dedicated to empowering businesses by enabling strategic decision-making based on predictive modeling and data-driven findings. Proven experience in analyzing intricate data sets and serving as a reliable technical advisor, driving impactful results in diverse projects.</h3>
+  
+Passionate and hardworking software developer with nearly 3 years of experience in back-end development.
+Expertise in the design and implementation of back-end applications with the commitment to deliver a robust application.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AkashSahlot&label=Profile%20views&color=0e75b6&style=flat" alt="AkashSahlot" /> </p>
 
